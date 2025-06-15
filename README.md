@@ -29,17 +29,10 @@ pip install selenium
 ⚙️ Usage
 Clone the Repository:
 
-git clone https://github.com/yourusername/github-scroller.git
-cd github-scroller
+git clone https://github.com/zwivhuyamashau/GithubVideoMaker.git
+cd GithubVideoMaker
 
 Run the Script:
-python scroller.py
+python main.py
 
--------
-from scroller import create_smooth_scroll_video
-create_smooth_scroll_video(
-    url="https://github.com/black-forest-labs/flux",
-    duration=40,  # Total video length in seconds
-    output_video="flux_repo_scroll.mp4",
-)
------
+
